@@ -14,9 +14,9 @@ int main(){
     int k;
     
     printf("Welcome to Dhruv's Matrix Multiplier!  ");
-    cout<<"Enter the number of rows=";    
+    cout<<"Enter the number of rows= ";    
         cin>>r;    
-    cout<<"Enter the number of columns=";    
+    cout<<"Enter the number of columns= ";    
         cin>>c;    
     cout<<"Enter the first matrix element=\n";    
     
